@@ -1,3 +1,5 @@
+// My Arduino sketch to display a scrolling text on a 16x2 LCD with a blinking cursor at the end of the text.
+
 #include "LiquidCrystal.h"
 LiquidCrystal lcd(8,7,6,5,4,3);
 
