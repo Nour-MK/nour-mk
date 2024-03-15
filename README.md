@@ -1,6 +1,8 @@
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 𝚘𝚏 \<𝙶𝚒𝚝𝚑𝚞𝚋/\> 🔧 
 ![Hi!](LCD-MyName.gif)
 
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-MK&theme=blue-green" alt="Nour-MK" /></td>
+
 #
 
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
