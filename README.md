@@ -3,24 +3,36 @@
 
 #
 
-![](https://img.shields.io/badge/Windows-8e9092?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows-2f1018?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/VirtualBox-2f1018?style=flat&logo=virtualbox&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/Chrome-8e9092.svg?logo=googlechrome&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/C-2f1018.svg?logo=c-in-hexagon&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/C++-8e9092.svg?logo=cpp2&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Chrome-2f1018.svg?logo=googlechrome&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Tor-2f1018.svg?logo=torbrowser&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Microsoft%20Office-2f1018.svg?logo=microsoft&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/TickTick-2f1018.svg?logo=ticktick&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/ChatGPT-2f1018.svg?logo=openai&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Reddit-2f1018.svg?logo=reddit&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Stack%20Overflow-2f1018.svg?logo=stackoverflow&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Symbolab-2f1018.svg?logo=symbolab&logoColor=white)
 ![](https://img.shields.io/badge/VS%20Code-2f1018.svg?logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/GitHub-8e9092.svg?logo=github&logoColor=white)
-
-
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+![](https://img.shields.io/badge/Scratch-2f1018.svg?logo=scratch&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/C-2f1018.svg?logo=c-in-hexagon&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/C++-2f1018.svg?logo=cpp2&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Java-2f1018.svg?logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-2f1018.svg?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Command%20Line-2f1018.svg?logo=windowsterminal&logoColor=white)
+![](https://img.shields.io/badge/Cisco%20Packet%20Tracer-2f1018.svg?logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-2f1018.svg?logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/Mulisim-2f1018.svg?logo=multisim&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/VHDL-2f1018.svg?logo=vhdl&logoColor=white)
+![](https://img.shields.io/badge/Tinkercad-2f1018.svg?logo=tinkercad&logoColor=white)
+![](https://img.shields.io/badge/Markdown-2f1018.svg?logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-2f1018.svg?logo=LaTeX&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/MATLAB-2f1018.svg?logo=matlabbb&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Draw.io-2f1018.svg?logo=diagramsdotnet&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Canva-2f1018.svg?logo=canva&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/SQL-2f1018.svg?logo=database&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Squarespace-2f1018.svg?logo=squarespace&logoColor=white)
+![](https://img.shields.io/badge/HTML-2f1018.svg?logo=html5&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Keil-2f1018.svg?logo=armkeil&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Assembly-2f1018.svg?logo=asm-hex&logoColor=white)
+![](https://img.shields.io/badge/-Arduino-2f1018?logo=Arduino&logoColor=white)
