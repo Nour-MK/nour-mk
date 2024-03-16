@@ -45,6 +45,7 @@
 ![](https://custom-icon-badges.demolab.com/badge/Canva-2f1018.svg?logo=canva&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/SQL-2f1018.svg?logo=database&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Squarespace-2f1018.svg?logo=squarespace&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Zapier-2f1018.svg?logo=zapier&logoColor=white)
 ![](https://img.shields.io/badge/HTML-2f1018.svg?logo=html5&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Keil-2f1018.svg?logo=armkeil&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/C-2f1018.svg?logo=c-in-hexagon&logoColor=white)
