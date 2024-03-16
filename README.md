@@ -18,6 +18,7 @@
 ![](https://custom-icon-badges.demolab.com/badge/IEEE-2f1018.svg?logo=ieee&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Letterboxd-2f1018.svg?logo=letterboxd&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Goodreads-2f1018.svg?logo=goodreads&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/GamesGraph-2f1018.svg?logo=gamesgraph&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Spotify-2f1018.svg?logo=spotify&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Reddit-2f1018.svg?logo=reddit&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/X-2f1018.svg?logo=xtwitter&logoColor=white)
