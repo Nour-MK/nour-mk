@@ -5,8 +5,6 @@
 
 #
 
-![](https://img.shields.io/badge/Windows-2f1018?style=flat&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Android-2f1018?style=flat&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/VirtualBox-2f1018?style=flat&logo=virtualbox&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Chrome-2f1018.svg?logo=googlechrome&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Microsoft%20Office-2f1018.svg?logo=microsoft&logoColor=white)
