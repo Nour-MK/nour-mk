@@ -22,7 +22,6 @@
 ![](https://custom-icon-badges.demolab.com/badge/Squarespace-2f1018.svg?logo=squarespace&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Zapier-2f1018.svg?logo=zapier&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Keil-2f1018.svg?logo=armkeil&logoColor=white)
-
 ![](https://img.shields.io/badge/Scratch-2f1018.svg?logo=scratch&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/C++-2f1018.svg?logo=cpp2&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Java-2f1018.svg?logo=java&logoColor=white)
