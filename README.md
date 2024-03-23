@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Mulisim-2f1018.svg?logo=multisim&logoColor=white)
 ![](https://img.shields.io/badge/Figma-2f1018.svg?logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-2f1018.svg?logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Shields.io-2f1018.svg?logo=shieldsdotio&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-2f1018.svg?logo=LaTeX&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/MATLAB-2f1018.svg?logo=matlabbb&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/VHDL-2f1018.svg?logo=vhdl&logoColor=white)
