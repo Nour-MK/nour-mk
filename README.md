@@ -34,5 +34,5 @@
 ![](https://custom-icon-badges.demolab.com/badge/SQL-2f1018.svg?logo=database&logoColor=white)
 ![](https://img.shields.io/badge/HTML-2f1018.svg?logo=html5&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/C-2f1018.svg?logo=c-in-hexagon&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/Assembly-2f1018.svg?logo=asm-hex&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/x32%20bit%20Thumb-2%20Assembly-2f1018.svg?logo=asm-hex&logoColor=white)
 ![](https://img.shields.io/badge/-Arduino-2f1018?logo=Arduino&logoColor=white)
