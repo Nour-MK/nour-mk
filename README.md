@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Figma-2f1018.svg?logo=figma&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Draw.io-2f1018.svg?logo=diagramsdotnet&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/MATLAB-2f1018.svg?logo=matlabbb&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Active%20HDL-2f1018.svg?logo=aldec&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Squarespace-2f1018.svg?logo=squarespace&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Zapier-2f1018.svg?logo=zapier&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Keil-2f1018.svg?logo=armkeil&logoColor=white)
