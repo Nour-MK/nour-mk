@@ -26,6 +26,7 @@
 ![](https://custom-icon-badges.demolab.com/badge/C++-2f1018.svg?logo=cpp2&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Java-2f1018.svg?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Python-2f1018.svg?logo=python&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/CLI%20Scripting-2f1018.svg?logo=cli&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-2f1018.svg?logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-2f1018.svg?logo=LaTeX&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/VHDL-2f1018.svg?logo=vhdl&logoColor=white)
