@@ -1,6 +1,7 @@
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 𝚘𝚏 \<𝙶𝚒𝚝𝙷𝚞𝚋/\> 🔧 
 ![Hi!](LCD-MyName.gif)
 
+<br>
 High School Diploma, Abu Dhabi's Rosary Private School <br>
 Bachelor of Science in Computer Engineering, American University of Ras Al Khaimah
 
